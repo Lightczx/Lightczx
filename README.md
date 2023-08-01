@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightczx)](https://github.com/Lightczx)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightczx&theme=transparent)](https://github.com/Lightczx)
 ### Coding Language
 * C#
 * C++
